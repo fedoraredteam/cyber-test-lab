@@ -1,7 +1,7 @@
 ---
 version:
   date: 20171210
-  ctl_version: 0.2
+  ctl_version: 0.3
 starting_score: 100
 complexity:
   cyclomatic_complexity:
