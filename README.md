@@ -1,8 +1,8 @@
 # cyber-test-lab
 Fedora Cyber Test Lab offers quantitative static and dynamic risk analysis of binaries
 
-## Alpha
-This project is in alpha. It can be hard to get working. Contact [jasoncallaway@fedoraproject.org](matilto:jasoncallaway@fedoraproject.org) for help.
+## Beta
+This project is in beta. It can still be hard to get working. Contact [jasoncallaway@fedoraproject.org](matilto:jasoncallaway@fedoraproject.org) for help. If you're looking for a way to contribute, we need help with documentation!
 
 We're targeting end of December 2017 for a beta release.
 
